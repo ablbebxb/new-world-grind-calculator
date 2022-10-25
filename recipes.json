@@ -1,0 +1,122 @@
+{
+    "lacquered-wood-bow": {
+        "inputs": {
+            "lumber": 13,
+            "rough-leather": 3,
+            "linen": 2
+        },
+        "modifier": 0
+    },
+    "infused-leather-gloves": {
+        "inputs": {
+            "infused-leather": 4,
+            "linen": 4,
+            "iron-ingot": 1
+        },
+        "modifier": 0
+    },
+    "layered-leather-gloves": {
+        "inputs": {
+            "layered-leather": 4,
+            "linen": 4,
+            "iron-ingot": 1
+        },
+        "modifier": 0
+    },
+    "rugged-leather-gloves": {
+        "inputs": {
+            "rough-leather": 4,
+            "linen": 4,
+            "iron-ingot": 1
+        },
+        "modifier": 0
+    },
+    "infused-leather": {
+        "inputs": {
+            "layered-leather": 2,
+            "iron-hide": 8,
+            "aged-tannin": 1
+        },
+        "modifier": 0.23
+    },
+    "layered-leather": {
+        "inputs": {
+            "rough-leather": 2,
+            "thick-hide": 6,
+            "aged-tannin": 1
+        },
+        "modifier": 0.5
+    },
+    "rough-leather": {
+        "inputs": {
+            "coarse-leather": 4,
+            "aged-tannin": 1
+        },
+        "modifier": 1.03
+    },
+    "coarse-leather": {
+        "inputs": {
+            "rawhide": 4
+        },
+        "modifier": 0.3
+    },
+    "lumber": {
+        "inputs": {
+            "aged-wood": 4,
+            "timber": 2,
+            "sandpaper": 1
+        },
+        "modifier": 0.84
+    },
+    "timber": {
+        "inputs": {
+            "green-wood": 4
+        },
+        "modifier": 0.11
+    },
+    "aged-wood": {
+        "raw": true,
+        "inputs": {},
+        "modifier": 0
+    },
+    "sandpaper": {
+        "raw": true,
+        "inputs": {},
+        "modifier": 0
+    },
+    "green-wood": {
+        "raw": true,
+        "inputs": {},
+        "modifier": 0
+    },
+    "rawhide": {
+        "raw": true,
+        "inputs": {},
+        "modifier": 0
+    },
+    "iron-ingot": {
+        "raw": true,
+        "inputs": {},
+        "modifier": 0
+    },
+    "iron-hide": {
+        "raw": true,
+        "inputs": {},
+        "modifier": 0
+    },
+    "thick-hide": {
+        "raw": true,
+        "inputs": {},
+        "modifier": 0
+    },
+    "aged-tannin": {
+        "raw": true,
+        "inputs": {},
+        "modifier": 0
+    },
+    "linen": {
+        "raw": true,
+        "inputs": {},
+        "modifier": 0
+    }
+}
